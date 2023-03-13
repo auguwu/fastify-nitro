@@ -60,7 +60,7 @@ __metadata:
     "@augu/tsconfig": 1.1.1
     "@noelware/utils": 2.2.1
     "@types/eslint": 8.21.1
-    "@types/node": 18.13.0
+    "@types/node": 18.15.2
     "@types/prettier": 2.7.2
     "@typescript-eslint/eslint-plugin": 5.52.0
     "@typescript-eslint/parser": 5.52.0
@@ -826,10 +826,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.13.0":
-  version: 18.13.0
-  resolution: "@types/node@npm:18.13.0"
-  checksum: 4ea10f8802848b01672bce938f678b6774ca2cee0c9774f12275ab064ae07818419c3e2e41d6257ce7ba846d1ea26c63214aa1dfa4166fa3746291752b8c6416
+"@types/node@npm:18.15.2":
+  version: 18.15.2
+  resolution: "@types/node@npm:18.15.2"
+  checksum: 6db83062d295f9da63e7b24477f734b497170a577b21e0c13637d6f355d53713f875536e52ff02938221330d919700b5ed787dc493e32624a3ecb6c86105cfc8
   languageName: node
   linkType: hard
 
